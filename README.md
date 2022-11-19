@@ -6,6 +6,7 @@ Project contain:
 1. Arduino Board (UNO personally)
 
 ~~2. Ethernet Shield (for connecting to localhost, if unneeded for u, sure)~~
+
 3. MFRC522 (RFID-RC522 for RFID, duh)
 4. some LED, one red and one green
 5. LCD (connect it to I2C or makedo if u can)
