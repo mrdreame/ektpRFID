@@ -15,6 +15,3 @@ side note if u use Ethernet Shield (W5100 for me personally)
 since W5100 use port 10 (idk, just found it on the community and it kinda stressed me out before finding this solution)
 change your pin for RST and SDA (since this is interchangeable)
 to any pin you want
-
-for this i use pin 6 and 7 for necessary RFID port
-and pin 8 and 9 for led needs.
