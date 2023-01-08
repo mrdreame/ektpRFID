@@ -8,3 +8,7 @@ Project contain:
 
 use default pin for MFRC522 (9 and 10 for RST and SSA)
 and pin 6 - 7 for LED
+
+upload ektpRFID.ino to your arduino (with appropriate pin or edit it yourself)
+
+also i use netbeans for IDE for software-side to run the apps
